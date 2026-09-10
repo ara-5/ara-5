@@ -34,10 +34,6 @@ I work at the intersection of **capable AI and secure AI** — production-grade 
 
 `LangGraph` `LangChain` `FAISS` `BM25` `RAGAs` `Claude API` `Transformers` `DistilBERT` `PPO` `Stable-Baselines3`
 
-### GitHub Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ara-5&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
 ---
 
 <div align="center">
