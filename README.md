@@ -26,10 +26,6 @@ I work at the intersection of **capable AI and secure AI** — production-grade 
 
 **"Detecting Human-Written and AI-Generated Phishing Emails Using DistilBERT and Explainable AI"** — IEEE, 2025. Tri-class classifier (~98% accuracy) with SHAP/LIME explainability. [Read it →](https://ieeexplore.ieee.org/document/11407086)
 
-### Certifications
-
-**One Million Prompters** — Prompt Engineering, Dubai Crown Prince's Court Initiative launched by HH Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum (2025).
-
 ### Stack
 
 `LangGraph` `LangChain` `FAISS` `BM25` `RAGAs` `Claude API` `Transformers` `DistilBERT` `FastAPI` `Docker` `PPO` `Stable-Baselines3` `Python` `TypeScript`
