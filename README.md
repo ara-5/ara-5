@@ -1,10 +1,10 @@
 <div align="center">
 
-# Athira Anil Kumar
+<img src="banner.svg" alt="Athira Anil Kumar — GenAI Security Testing Developer · Agentic AI · LLM Security · UAE" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems.;RAG+%C2%B7+LangGraph+%C2%B7+LLM+Security.;AI+Red+Teaming+%26+Adversarial+Testing.;From+architecture+to+deployment." alt="Typing SVG" />
+<br>
 
-MSc Cyber Security (Distinction) · IEEE-Published Researcher · Sharjah, UAE
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=3000&pause=1000&color=7A8BAA&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems.;RAG+%C2%B7+LangGraph+%C2%B7+LLM+Security.;AI+Red+Teaming+%26+Adversarial+Testing.;From+architecture+to+deployment." alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=000000)](https://ara-5.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athira-a-k)
