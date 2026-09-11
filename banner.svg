@@ -33,17 +33,12 @@
   </g>
 
   <!-- Name -->
-  <text x="220" y="80" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">
+  <text x="220" y="92" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="0.5">
     <tspan fill="#F0F4FF">Athira </tspan><tspan fill="#00D4FF">Anil Kumar</tspan>
   </text>
 
-  <!-- Role -->
-  <text x="221" y="116" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" fill="#00D4FF">
-    GenAI Security Testing Developer
-  </text>
-
   <!-- Tagline -->
-  <text x="221" y="142" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#7A8BAA">
+  <text x="221" y="122" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7A8BAA">
     Agentic AI &#183; LLM Security &#183; RAG Systems &#183; UAE
   </text>
 
