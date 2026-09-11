@@ -39,7 +39,7 @@
 
   <!-- Tagline -->
   <text x="221" y="122" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#7A8BAA">
-    Agentic AI &#183; LLM Security &#183; RAG Systems &#183; UAE
+    Agentic AI &#183; LLM Security &#183; RAG Systems
   </text>
 
   <text x="1150" y="170" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="12" fill="#7A8BAA">
