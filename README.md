@@ -18,6 +18,9 @@
 
 I work at the intersection of **capable AI and secure AI** — production-grade agentic/RAG systems, and the red-teaming frameworks that stress-test them. Currently a **GenAI Security Testing Developer** at Cosmic Info Solution, evaluating LLM systems against prompt injection, jailbreaks, and system-prompt extraction.
 
+- 🧩 **[fullstack-crm](https://github.com/ara-5/fullstack-crm)** — Production CRM with deal pipeline, REST API, and an AI agent that requires explicit approval before writing data. [Live demo →](https://fullstack-crm-cyan.vercel.app)
+- 📊 **[trading-erp](https://github.com/ara-5/trading-erp)** — Full-stack ERP unifying sales, purchasing, inventory, and double-entry accounting, with a Claude-powered copilot.
+- 🤝 **[multi-agent-system](https://github.com/ara-5/multi-agent-system)** — Cooperative/competitive/communicative multi-agent RL (PPO), validated across seeds. [Live demo →](https://claude.ai/code/artifact/43ff9a43-2bfe-4ba7-9bbb-c12a43275fff)
 - 🛡️ **[AI-Security-Gateway](https://github.com/ara-5/AI-Security-Gateway)** — Middleware that detects prompt injection, jailbreaks, PII, and malicious tool calls in real time. 100% recall / 0% FPR on eval, cuts LLM compromise rate 90.8% → 19.7%. [Live demo →](https://ara-5.github.io/AI-Security-Gateway/)
 - 🔍 **[Enterprise-Agentic-RAG-Platform](https://github.com/ara-5/Enterprise-Agentic-RAG-Platform)** — LangGraph agentic loop, hybrid BM25+FAISS retrieval, Corrective RAG with web fallback. RAGAs Faithfulness 0.91 / Relevancy 0.88, gated in CI/CD.
 - 🕵️ **[Capstone-Agent (CodeSentinel)](https://github.com/ara-5/Capstone-Agent)** — Five-agent system that debates, reaches consensus, and patches security vulnerabilities in code, with auto-generated reports.
@@ -30,9 +33,9 @@ I work at the intersection of **capable AI and secure AI** — production-grade 
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,docker,react,azure,git,nodejs,postgres,linux,githubactions&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,nextjs,nestjs,fastapi,docker,react,azure,git,nodejs,postgres,prisma,linux,githubactions&theme=dark" alt="Skills" />
 
-`LangGraph` `LangChain` `FAISS` `BM25` `RAGAs` `Claude API` `Transformers` `DistilBERT` `PPO` `Stable-Baselines3`
+`LangGraph` `LangChain` `FAISS` `BM25` `RAGAs` `Claude API` `Transformers` `DistilBERT` `PPO` `Stable-Baselines3` `PettingZoo`
 
 ---
 
