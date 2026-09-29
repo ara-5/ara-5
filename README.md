@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Athira Anil Kumar — GenAI Security Testing Developer · Agentic AI · LLM Security · UAE" width="100%" />
+<img src="banner.svg" alt="Athira Anil Kumar — GenAI Security Testing Developer · Agentic AI · LLM Security" width="100%" />
 
 <br>
 
