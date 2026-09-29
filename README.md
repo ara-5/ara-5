@@ -18,6 +18,8 @@
 
 I work at the intersection of **capable AI and secure AI** — production-grade agentic/RAG systems, and the red-teaming frameworks that stress-test them. Currently a **GenAI Security Testing Developer** at Cosmic Info Solution, evaluating LLM systems against prompt injection, jailbreaks, and system-prompt extraction.
 
+- ⚔️ **[AgentShield](https://github.com/ara-5/AI-Agent-Security-Red-Team-Platform)** — Autonomous red-team engine: builds a vulnerable multi-agent target, attacks it across 11 categories (prompt injection, RAG/memory/tool poisoning, agent-to-agent), gates CI on security regressions.
+- 🔐 **[AegisAI](https://github.com/ara-5/AI-Runtime-Security-Zero-Trust-Agent-Platform)** — Zero-trust runtime gateway for AI agents: verified identity, OPA/Rego policy-as-code, prompt-injection detection, human-approval escalation. p95 563ms @ 69 req/s.
 - 🧩 **[fullstack-crm](https://github.com/ara-5/fullstack-crm)** — Production CRM with deal pipeline, REST API, and an AI agent that requires explicit approval before writing data. [Live demo →](https://fullstack-crm-cyan.vercel.app)
 - 📊 **[trading-erp](https://github.com/ara-5/trading-erp)** — Full-stack ERP unifying sales, purchasing, inventory, and double-entry accounting, with a Claude-powered copilot.
 - 🤝 **[multi-agent-system](https://github.com/ara-5/multi-agent-system)** — Cooperative/competitive/communicative multi-agent RL (PPO), validated across seeds. [Live demo →](https://claude.ai/code/artifact/43ff9a43-2bfe-4ba7-9bbb-c12a43275fff)
